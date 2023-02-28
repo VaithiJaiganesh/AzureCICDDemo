@@ -1,0 +1,8 @@
+Git Commends:
+
+Git init
+git log
+git status
+git add . / add *
+git commit -m " arg...."
+git checkout arg  arg--> uniqe id from previous commit
