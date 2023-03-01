@@ -8,3 +8,4 @@ git commit -m " arg...."
 git checkout arg  arg--> uniqe id from previous commit
 git log --all
 git checkout main
+git rm --cached
