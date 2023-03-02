@@ -9,3 +9,14 @@ git checkout arg  arg--> uniqe id from previous commit
 git log --all
 git checkout main
 git rm --cached
+git checkout -b FeatureA -- create branch
+git merge FeatureA -- Merge the branch
+git checkout branch_name -- Switch the branch
+------------Remote Branch--------
+1. Create a repository in Remote
+2. push the code in the repository
+git remote add origin https://github.com/VaithiJaiganesh/AzureCICDDemo.git
+git push -u origin master
+
+
+
